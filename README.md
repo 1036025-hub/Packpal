@@ -17,7 +17,7 @@ Example: https://expo.dev/@your-username/packpal
   <img src="assets/1.jpg" width="200"/>
   <img src="screenshots/feed.png" width="200"/>
   <img src="screenshots/profile.png" width="200"/>
-  <img src="screenshots/details.png" width="200"/>
+  <img src="assets/details" width="200"/>
 </p>
 
 ---
