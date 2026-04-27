@@ -2,12 +2,6 @@
 
 PackPal is a full-stack mobile application that blends travel discovery with social interaction. It enables users to explore destinations, share experiences through posts, and engage with a real-time community feed.
 
----
-
-## Live Demo
-
-Add your demo link here  
-Example: https://expo.dev/@your-username/packpal
 
 ---
 
@@ -151,7 +145,7 @@ User → React Native App → Firebase Auth → Firestore → Cloudinary → UI 
 ## Installation
 
 ```bash
-git clone https://github.com/your-username/packpal.git
+git clone https://github.com/your-1036025-hub/packpal.git
 cd packpal
 npm install
 npx expo start
